@@ -1,3 +1,4 @@
+![Mind Map Output](images/mindmap_output.png)
 
 # Mind Map Generator
 
